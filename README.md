@@ -28,18 +28,6 @@ Site institucional de página única para a **Rosa do Campo Agropet**, loja de p
 - Animações de entrada e transições suaves ao rolar a página
 - Sem frameworks — HTML, CSS e JavaScript puro
 
-## Publicação
-
-Este site pode ser publicado em qualquer serviço de hospedagem estática:
-
-- **Vercel** (recomendado): importe este repositório diretamente pelo painel da Vercel
-- **GitHub Pages**: ative em *Settings → Pages*, branch `main`, pasta raiz
-
-O domínio (`rosadocampoagropet.com.br`) é registrado separadamente via Registro.br e conectado por DNS.
-
-## Atualizações
-
-Para futuras alterações no conteúdo, layout ou produtos, edite o arquivo `index.html` e faça o commit das mudanças. Se a hospedagem estiver conectada via Git (Vercel ou GitHub Pages), o site é atualizado automaticamente.
 
 ---
 
